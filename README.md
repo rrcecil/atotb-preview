@@ -2,7 +2,7 @@
 
 **Link:** https://rrcecil.github.io/atotb-preview/
 
-This is an interim preview for the board. It shows the new design and layout with atotb.org's public pages, copied on October 2, 2026 and built from commit 3f6e903 of the private site repository. It isn't the live site, and it isn't the staging site; it's a static copy served by GitHub Pages.
+This is an interim preview for the board. It shows the new design and layout with atotb.org's public pages, copied on October 3, 2026 and built from commit 2dd2aae of the private site repository. It isn't the live site, and it isn't the staging site; it's a static copy served by GitHub Pages.
 
 ## Switched off in this preview
 Every place to give or pay, buy a ticket, register for an event, book a time, sign a petition, join a group or fill in a form is switched off: donation and payment forms and links, sign-up and survey forms, event registration and tickets, booking links, petitions and group invites. Each place says what was switched off ("Donation form switched off in this preview"), and a switched-off link or button stays visible but goes nowhere.
